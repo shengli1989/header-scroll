@@ -1,6 +1,6 @@
 var myElement = document.querySelector("#header");
 var headroom = new Headroom(myElement, {
-  "tolerance": 10,
+  "tolerance": 3,
   "offset": 144,
   "classes": {
     "initial": "headroom",
